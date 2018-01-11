@@ -1,0 +1,12 @@
+<school>
+    <class>
+        <student id="1">
+            <name>JJ</name>
+            <song>Jiangnan</song>
+        </student>
+        <student id="2">
+            <name>Jay</name>
+            <song>Shuangjiegun</song>
+        </student>
+    </class>
+</school>
